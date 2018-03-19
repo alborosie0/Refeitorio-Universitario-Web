@@ -3,15 +3,16 @@ body{
 }
 
 #login{
-	background-color: #ff0901;
 	position: absolute;
 	width: 360px;
 	height: 180px;
 	text-align: center;
 	margin-top: 17%;
 	margin-left: 35%;
-
 	border: solid;
+	border-radius: 10px;
+	box-shadow: 10px 10px grey;
+
 }
 
 #formlogin{
@@ -30,5 +31,9 @@ input{
 
 #formlogin{
 	margin: 50px;
+}
+
+#formlogin input button{
+	
 }
 
